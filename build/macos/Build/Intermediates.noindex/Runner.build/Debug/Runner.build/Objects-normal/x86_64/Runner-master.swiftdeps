@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "d587bc40a4a75e5d4ae77b2063253da7ef624d0b6946f6e8c2da19257daccb25"
+build_start_time: [1661356014, 987439155]
+build_end_time: [1661356016, 10446071]
+inputs:
+  "/Users/alpererden/Desktop/flutter/dinamik_ortalama_hesaplama/macos/Flutter/GeneratedPluginRegistrant.swift": [1661355984, 607208013]
+  "/Users/alpererden/Desktop/flutter/dinamik_ortalama_hesaplama/macos/Runner/AppDelegate.swift": [1657708754, 0]
+  "/Users/alpererden/Desktop/flutter/dinamik_ortalama_hesaplama/macos/Runner/MainFlutterWindow.swift": [1657708754, 0]
